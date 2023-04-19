@@ -27,7 +27,7 @@
 
 
 
-<a href="https://whatsapp.com/wa.me/+923096566451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wa.me/+923096566451" height="30" width="40" /></a>
+<a href="https://whatsapp.com/wa.me/+923096566451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa.me/+923096566451" height="30" width="40" /></a>
 
 <a href="https://youtube.com/@TechnicalNaveedOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 
